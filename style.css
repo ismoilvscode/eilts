@@ -915,7 +915,7 @@ audio{width:100%;margin-top:10px;border-radius:12px;}
   display:flex;
   gap:4px;
   padding:6px;
-  min-width:296px;
+  min-width:200px;
   max-width:calc(100vw - 32px);
 
   background:rgba(255,255,255,.48);
